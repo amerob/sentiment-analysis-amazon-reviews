@@ -36,17 +36,7 @@ The dataset contains Amazon reviews, which are analyzed to predict sentiment (po
   'roberta_pos': 0.0029573706  # Positive sentiment score
 }
 ```
-### Visualizations:
-- **Pair plots**: Compare sentiment scores from both models.
-- **Violin and KDE plots**: Show the distribution of sentiment scores across review ratings.
 
-## Installation
-
-Clone the repo and install dependencies:
-```bash
-git clone https://github.com/yourusername/sentiment-analysis-amazon-reviews.git
-cd sentiment-analysis-amazon-reviews
-pip install -r requirements.txt
 
 
 
